@@ -20,7 +20,6 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "server-monitor-db"
-
 database_id = "bad6eaf4-f711-4641-89cd-e6c38410702e"
 
 # Durable Objects：实时指标广播中心
